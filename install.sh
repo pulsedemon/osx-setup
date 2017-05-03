@@ -45,7 +45,7 @@ apm install react
 brew cask cleanup
 
 # npm global modules
-npm install -g angular-cli
+npm install -g @angular/cli
 npm install -g yarn
 npm install -g phantomjs
 npm install -g mocha
